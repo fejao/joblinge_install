@@ -1,5 +1,11 @@
-# 1- Installieren Visual Studio Code
-----
+[![License GLP3](https://img.shields.io/badge/license-GPL3-red.svg)](LICENSE.md)
+[![HitCount](http://hits.dwyl.io/fejao/joblinge_install/vsc.svg)](http://hits.dwyl.io/fejao/joblinge_install/vsc)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/fejao/joblinge_install/issues)
+
+Installieren Visual Studio Code
+===============
+wie Sie Visual Studio Code auf Ihrem Computer installieren sollten
+_____________________________________________
 
 - ## 1.1- Herunterladen das Programm
 Laden Sie das Programm herunter bei:
