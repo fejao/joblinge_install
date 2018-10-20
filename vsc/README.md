@@ -74,21 +74,21 @@ https://code.visualstudio.com/
   - #### 1.3.3.1- Erstellen Sie eine Testcodedatei
     Fügen Sie den Code zu einer Testdatei namens "index.html" hinzu und geben Sie den Code ein
     ```
-      <!DOCTYPE html>
-      <html lang="de">
-      <head>
-          <meta charset="UTF-8">
-          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <meta http-equiv="X-UA-Compatible" content="ie=edge">
-          <title>JS Example 01</title>
-      </head>
-      <body>
-          <h1>Hallo Welt :)</h1>
-          <script>
-              console.log('Hallo Welt');
-          </script>
-      </body>
-      </html>
+    <!DOCTYPE html>
+    <html lang="de">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>JS Example 01</title>
+    </head>
+    <body>
+        <h1>Hallo Welt :)</h1>
+        <script>
+            console.log('Hallo Welt');
+        </script>
+    </body>
+    </html>
     ```
 
     - #### 1.3.3.2- Code Beispiel
