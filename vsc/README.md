@@ -91,13 +91,13 @@ https://code.visualstudio.com/
     </html>
     ```
 
-    - #### 1.3.3.2- Code Beispiel
+   - #### 1.3.3.2- Code Beispiel
       ![VSC Image 08](pics/vsc_08.PNG?raw=true "VSC Image 08")
 
-    - #### 1.3.3.3 -Öffnen Sie die Browserkonsole
+   - #### 1.3.3.3 -Öffnen Sie die Browserkonsole
       Rechtsklick auf die Webseite oder mit der Tastaturkombination **"Stgr+Shift+i"**
       ![VSC Image 09](pics/vsc_09.PNG?raw=true "VSC Image 09")
 
-    - #### 1.3.3.4 -Wählen Sie Konsole
+   - #### 1.3.3.4 -Wählen Sie Konsole
       Ausgabebeispiel                       
       ![VSC Image 10](pics/vsc_10.PNG?raw=true "VSC Image 10")
