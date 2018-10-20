@@ -16,9 +16,8 @@ https://code.visualstudio.com/
 - ## 1.2- Installieren
   Installieren Node JS ins Windows
 
-  - ### 1.2.1- WIP
-    WIP 1
-    ![VSC Image 01](pics/vsc_01.PNG?raw=true "VSC Image 01")
+  - ### 1.2.1- Installation Programm durchführen
+    Klicken Sie einfach auf die Installationsdatei und es wird automatisch installiert
 
 - ## 1.3- Visual Studio Code  Konfigurieren
   Testen der 'NodeJS' Installation
