@@ -52,7 +52,7 @@ Testen der 'NodeJS' Installation
 
     - #### 2.3.1.1- Ändern Sie das Vereezeichnis
     Wechseln Sie mit dem Befehl in ein anderes Verzeichnis:
-    ```bash
+    ```
     cd Dokumente\joblinge\javascript\example_01_browser\von_andere_datei\
     ```
 
