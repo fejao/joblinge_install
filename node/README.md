@@ -44,23 +44,23 @@ Installieren Node JS ins Windows
   Klicken Sie auf "Fertig"             
   ![Node Image 08](pics/node_08.PNG?raw=true "Node Image 08")
 
-- ## 2.3- Installationstest
+- ##2.3- Installationstest
 Testen der 'NodeJS' Installation
 
-  - ### 2.3.1- Terminal (Prompt) Testen
+  - ###2.3.1- Terminal (Prompt) Testen
   Öffnen Sie das Terminal und testen Sie mit den Befehlen
 
-    - #### 2.3.1.1- Ändern Sie das Vereezeichnis
+    - ####2.3.1.1- Ändern Sie das Vereezeichnis
     Wechseln Sie mit dem Befehl in ein anderes Verzeichnis:
     ```
     cd Dokumente\joblinge\javascript\example_01_browser\von_andere_datei\
     ```
 
-    - #### 2.3.1.2- Testen
+    - ####2.3.1.2- Testen
     Führen Sie den Befehl aus
     ```
     node index.js
     ```
 
-    - #### 2.3.1.3- Beispiel
+    - ####2.3.1.3- Beispiel
     ![Node Image 09](pics/node_09.PNG?raw=true "Node Image 09")
