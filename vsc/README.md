@@ -16,7 +16,7 @@ https://code.visualstudio.com/
   Testen der 'NodeJS' Installation
 
   - ### 1.3.1- Live Server installieren
-  Öffnen Sie das Terminal und testen Sie mit den Befehlen
+    Öffnen Sie das Terminal und testen Sie mit den Befehlen
 
     - #### 1.3.1.1- Offnen Extensions Marketplace
       Klicken Sie auf die Schaltfläche, um das **Extensions Marketplace** zu öffnen
