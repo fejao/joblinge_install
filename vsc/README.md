@@ -29,9 +29,9 @@ https://code.visualstudio.com/
    - #### 1.3.1.4- **Live Server** Installieren
      Geben Sie den Namen **Live Server** in das Suchfeld ein
      ![VSC Image 03](pics/vsc_03.PNG?raw=true "VSC Image 03")
-
-  - ### 1.3.2- Live Server Testen
-    Testen des **Live Server** mit einer Testdatei
+     
+ - ### 1.3.2- Live Server Testen
+   Testen des **Live Server** mit einer Testdatei
 
    - #### 1.3.2.1- Erstellen Sie eine Testcodedatei
      Fügen Sie den Code zu einer Testdatei namens "index.html" hinzu und geben Sie den Code ein
@@ -67,8 +67,8 @@ https://code.visualstudio.com/
       Wenn Ihr Server am Port 5500 gestartet wurde, sollte es sein: http://localhost:5500
       ![VSC Image 07](pics/vsc_07.PNG?raw=true "VSC Image 07")
 
-  - ### 1.3.3- Testing JS
-    Lassen Sie uns das JavaScript benutzen die **Visual Studio Code** testen
+- ### 1.3.3- Testing JS
+  Lassen Sie uns das JavaScript benutzen die **Visual Studio Code** testen
 
    - #### 1.3.3.1- Erstellen Sie eine Testcodedatei
      Fügen Sie den Code zu einer Testdatei namens "index.html" hinzu und geben Sie den Code ein
