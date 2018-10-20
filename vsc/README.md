@@ -18,24 +18,24 @@ https://code.visualstudio.com/
   - ### 1.3.1- Live Server installieren
     Öffnen Sie das Terminal und testen Sie mit den Befehlen
 
-    - #### 1.3.1.1- Offnen Extensions Marketplace
-      Klicken Sie auf die Schaltfläche, um das **Extensions Marketplace** zu öffnen
-      ![VSC Image 01](pics/vsc_01.PNG?raw=true "VSC Image 01")
+   - #### 1.3.1.1- Offnen Extensions Marketplace
+     Klicken Sie auf die Schaltfläche, um das **Extensions Marketplace** zu öffnen
+     ![VSC Image 01](pics/vsc_01.PNG?raw=true "VSC Image 01")
 
-    - #### 1.3.1.2- Suche nach **Live Server**
-      Geben Sie den Namen **Live Server** in das Suchfeld ein
-      ![VSC Image 02](pics/vsc_02.PNG?raw=true "VSC Image 02")
+   - #### 1.3.1.2- Suche nach **Live Server**
+     Geben Sie den Namen **Live Server** in das Suchfeld ein
+     ![VSC Image 02](pics/vsc_02.PNG?raw=true "VSC Image 02")
 
-    - #### 1.3.1.4- **Live Server** Installieren
-      Geben Sie den Namen **Live Server** in das Suchfeld ein
-      ![VSC Image 03](pics/vsc_03.PNG?raw=true "VSC Image 03")
+   - #### 1.3.1.4- **Live Server** Installieren
+     Geben Sie den Namen **Live Server** in das Suchfeld ein
+     ![VSC Image 03](pics/vsc_03.PNG?raw=true "VSC Image 03")
 
   - ### 1.3.2- Live Server Testen
     Testen des **Live Server** mit einer Testdatei
 
-    - #### 1.3.2.1- Erstellen Sie eine Testcodedatei
-      Fügen Sie den Code zu einer Testdatei namens "index.html" hinzu und geben Sie den Code ein
-      ```
+   - #### 1.3.2.1- Erstellen Sie eine Testcodedatei
+     Fügen Sie den Code zu einer Testdatei namens "index.html" hinzu und geben Sie den Code ein
+     ```
       <!DOCTYPE html>
       <html lang="de">
       <head>
@@ -48,7 +48,7 @@ https://code.visualstudio.com/
           <h1>Hallo Welt :)</h1>
       </body>
       </html>
-      ```
+     ```
 
     - #### 1.3.2.2- Öffnen Sie die Testdatei mit **Live Server**
       Klicken Sie mit der rechten Maustaste auf die Testdatei, um die **Live Server** Erweiterung zu öffnen
@@ -70,9 +70,9 @@ https://code.visualstudio.com/
   - ### 1.3.3- Testing JS
     Lassen Sie uns das JavaScript benutzen die **Visual Studio Code** testen
 
-    - #### 1.3.3.1- Erstellen Sie eine Testcodedatei
-      Fügen Sie den Code zu einer Testdatei namens "index.html" hinzu und geben Sie den Code ein
-      ```
+   - #### 1.3.3.1- Erstellen Sie eine Testcodedatei
+     Fügen Sie den Code zu einer Testdatei namens "index.html" hinzu und geben Sie den Code ein
+     ```
       <!DOCTYPE html>
       <html lang="de">
       <head>
@@ -88,7 +88,7 @@ https://code.visualstudio.com/
           </script>
       </body>
       </html>
-      ```
+     ```
 
     - #### 1.3.3.2- Code Beispiel
       ![VSC Image 08](pics/vsc_08.PNG?raw=true "VSC Image 08")
