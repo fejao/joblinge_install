@@ -6,7 +6,7 @@
 
 1- Installieren Visual Studio Code
 ===============
-wie Sie Visual Studio Code auf Ihrem Computer installieren sollten
+Wie Sie Visual Studio Code auf Ihrem Computer installieren sollten
 _____________________________________________
 
 - ## 1.1- Herunterladen das Programm

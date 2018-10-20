@@ -6,19 +6,19 @@
 
 2- Installieren Node JS
 ===============
-wie Sie Node JS auf Ihrem Computer installieren sollten
+Wie Sie Node JS auf Ihrem Computer installieren sollten
 _____________________________________________
 
 - ## 2.0- Visual Studio Code sollte installiert sein
-Bitte fahren Sie nur fort, wenn Sie den VSC bereits installiert haben:
-[Installing NodeJS](../vsc/README.md)
+  Bitte fahren Sie nur fort, wenn Sie den **Visual Studio Code** bereits installiert haben:
+  [Installieren Visual Studio Code](../vsc/README.md)
 
 - ## 2.1- Herunterladen das Programm
-Laden Sie das Programm herunter bei:
-https://nodejs.org/en/download/
+  Laden Sie das Programm herunter bei:
+  https://nodejs.org/en/download/
 
 - ## 2.2- Installieren
-Installieren Node JS ins Windows
+  Installieren Node JS ins Windows
 
   - ### 2.2.1- Installieren Ausführen
   Klicken Sie auf "Ausführen", um das Programm zu installieren.
