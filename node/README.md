@@ -1,5 +1,13 @@
-# 2- Installieren Node JS
-----
+![Joblinge Node logo](pics/logo_joblinge_node.png?raw=true "Joblinge Node logo")
+
+[![License GLP3](https://img.shields.io/badge/license-GPL3-red.svg)](LICENSE.md)
+[![HitCount](http://hits.dwyl.io/fejao/joblinge_install/node.svg)](http://hits.dwyl.io/fejao/joblinge_install/node)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/fejao/joblinge_install/issues)
+
+2- Installieren Node JS
+===============
+wie Sie Node JS auf Ihrem Computer installieren sollten
+_____________________________________________
 
 - ## 2.0- Visual Studio Code sollte installiert sein
 Bitte fahren Sie nur fort, wenn Sie den VSC bereits installiert haben:
