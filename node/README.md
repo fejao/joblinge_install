@@ -56,7 +56,7 @@ Testen der 'NodeJS' Installation
         cd Dokumente\joblinge\javascript\example_01_browser\von_andere_datei\
         ```
 
-    - #### 2.3.1.2- Testen
+   - #### 2.3.1.2- Testen
    		Führen Sie den Befehl aus:
         ```bash
         node index.js
@@ -72,21 +72,21 @@ Testen der 'NodeJS' Installation
          Gehe zu: **View->Terminal**       
          ![Node Image 10](pics/node_10.PNG?raw=true "Node Image 10")
 
-        - #### 2.3.2.2- Das Terminal wird geöffnet
+       - #### 2.3.2.2- Das Terminal wird geöffnet
           Sie erhalten eine Benachrichtigung, dass das Terminal geöffnet ist
           ![Node Image 11](pics/node_11.PNG?raw=true "Node Image 11")
 
-        - #### 2.3.2.3- Ändern Sie das Vereezeichnis
+       - #### 2.3.2.3- Ändern Sie das Vereezeichnis
           Wechseln Sie mit dem Befehl in ein anderes Verzeichnis:
           ```bash
           cd example_01_browser\von_andere_datei\
           ```
 
-         - #### 2.3.2.4- Testen
-           Führen Sie den Befehl aus
-           ```bash
-           node index.js
-           ```
+       - #### 2.3.2.4- Testen
+         Führen Sie den Befehl aus
+         ```bash
+         node index.js
+         ```
 
-         - #### 2.3.2.5- Beispiel
-          ![Node Image 12](pics/node_12.PNG?raw=true "Node Image 12")
+       - #### 2.3.2.5- Beispiel
+         ![Node Image 12](pics/node_12.PNG?raw=true "Node Image 12")
