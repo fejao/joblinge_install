@@ -17,7 +17,7 @@ Installieren Node JS ins Windows
   ![Node Image 01](pics/node_01.PNG?raw=true "Node Image 01")
 
   - ### 2.2.2- Willkommen Fenster
-  Klicken Sie auf "Nächste".
+  Klicken Sie auf "Nächste".                   
   ![Node Image 02](pics/node_02.PNG?raw=true "Node Image 02")
 
   - ### 2.2.3- Lizenz akzeptieren
@@ -37,11 +37,11 @@ Installieren Node JS ins Windows
   ![Node Image 06](pics/node_06.PNG?raw=true "Node Image 06")
 
   - ### 2.2.7- Installation läuft
-  Warte, bis es fertig ist
+  Bitte Warte, bis es fertig ist        
   ![Node Image 07](pics/node_07.PNG?raw=true "Node Image 07")
 
   - ### 2.2.8- Installation abgeschlossen
-  Klicken Sie auf "Fertig"
+  Klicken Sie auf "Fertig"             
   ![Node Image 08](pics/node_08.PNG?raw=true "Node Image 08")
 
 - ## 2.3- Installationstest
