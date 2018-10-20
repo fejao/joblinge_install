@@ -1,7 +1,7 @@
-![Joblinge Git logo](pics/logo_joblinge_git.png?raw=true "Joblinge Git logo")
+![Joblinge Git-Cola logo](pics/logo_joblinge_git_cola.PNG?raw=true "Joblinge Git-Cola logo")
 
 [![License GLP3](https://img.shields.io/badge/license-GPL3-red.svg)](LICENSE.md)
-[![HitCount](http://hits.dwyl.io/fejao/joblinge_install/git.svg)](http://hits.dwyl.io/fejao/joblinge_install/cola)
+[![HitCount](http://hits.dwyl.io/fejao/joblinge_install/git.svg)](http://hits.dwyl.io/fejao/joblinge_install/git_cola/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/fejao/joblinge_install/issues)
 
 4- Installieren Git-Cola
