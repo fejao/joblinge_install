@@ -18,20 +18,20 @@ https://code.visualstudio.com/
   - ### 1.3.1- Live Server installieren
     Öffnen Sie das Terminal und testen Sie mit den Befehlen
     
-        - #### 1.3.1.1- Offnen Extensions Marketplace
-          Klicken Sie auf die Schaltfläche, um das **Extensions Marketplace** zu öffnen
-          ![VSC Image 01](pics/vsc_01.PNG?raw=true "VSC Image 01")
+   - #### 1.3.1.1- Offnen Extensions Marketplace
+     Klicken Sie auf die Schaltfläche, um das **Extensions Marketplace** zu öffnen
+     ![VSC Image 01](pics/vsc_01.PNG?raw=true "VSC Image 01")
 
-        - #### 1.3.1.2- Suche nach **Live Server**
-          Geben Sie den Namen **Live Server** in das Suchfeld ein
-          ![VSC Image 02](pics/vsc_02.PNG?raw=true "VSC Image 02")
+   - #### 1.3.1.2- Suche nach **Live Server**
+     Geben Sie den Namen **Live Server** in das Suchfeld ein
+     ![VSC Image 02](pics/vsc_02.PNG?raw=true "VSC Image 02")
 
-        - #### 1.3.1.4- **Live Server** Installieren
-          Geben Sie den Namen **Live Server** in das Suchfeld ein
-          ![VSC Image 03](pics/vsc_03.PNG?raw=true "VSC Image 03")
+   - #### 1.3.1.4- **Live Server** Installieren
+     Geben Sie den Namen **Live Server** in das Suchfeld ein
+     ![VSC Image 03](pics/vsc_03.PNG?raw=true "VSC Image 03")
      
- - ### 1.3.2- Live Server Testen
-   Testen des **Live Server** mit einer Testdatei
+  - ### 1.3.2- Live Server Testen
+    Testen des **Live Server** mit einer Testdatei
 
    - #### 1.3.2.1- Erstellen Sie eine Testcodedatei
      Fügen Sie den Code zu einer Testdatei namens "index.html" hinzu und geben Sie den Code ein
@@ -55,8 +55,8 @@ https://code.visualstudio.com/
       ![VSC Image 04](pics/vsc_04.PNG?raw=true "VSC Image 04")
       
     - #### 1.3.2.3- Akzeptieren Sie die Sicherheitswarnung
-     Klicken                        
-     ![VSC Image 05](pics/vsc_05.PNG?raw=true "VSC Image 05")
+      Klicken                        
+      ![VSC Image 05](pics/vsc_05.PNG?raw=true "VSC Image 05")
 
     - #### 1.3.2.4- Server gestartet Benachrichtigung
       Bitte beachten Sie, an welchem Port der Server läuft
