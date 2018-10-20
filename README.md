@@ -6,17 +6,17 @@
 
 Installieren Software für Joblinge IT-Nachhilfe
 ===============
-Was Sie Git auf Ihrem Computer installieren sollten
+Was Sie auf Ihrem Computer installieren sollten
 _____________________________________________
 
-## 1- Install Visual Studio Code
-Please read the installation instructions at:
+## 1- Installieren Visual Studio Code
+Bitte lesen Sie die Installationsanleitung unter:
 [Installing Visual Studio Code](vsc/README.md)
 
-## 2- Install NodeJS
-Please read the installation instructions at:
+## 2- Installieren NodeJS
+Bitte lesen Sie die Installationsanleitung unter:
 [Installing NodeJS](node/README.md)
 
-## 3- Install Git
-Please read the installation instructions at:
+## 3- Installieren Git
+Bitte lesen Sie die Installationsanleitung unter:
 [Installing Git](git/README.md)
