@@ -20,3 +20,7 @@ Bitte lesen Sie die Installationsanleitung unter:
 ## 3- Installieren Git
 Bitte lesen Sie die Installationsanleitung unter:
 [Installing Git](git/README.md)
+
+## 4- Installieren Git-Cola
+Bitte lesen Sie die Installationsanleitung unter:
+[Installing Git-Cola](git_cola/README.md)
