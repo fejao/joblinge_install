@@ -14,10 +14,10 @@ https://code.visualstudio.com/
 
 - ## 1.3- Visual Studio Code  Konfigurieren
   Testen der 'NodeJS' Installation
-
+  
   - ### 1.3.1- Live Server installieren
     Öffnen Sie das Terminal und testen Sie mit den Befehlen
-
+    
    - #### 1.3.1.1- Offnen Extensions Marketplace
      Klicken Sie auf die Schaltfläche, um das **Extensions Marketplace** zu öffnen
      ![VSC Image 01](pics/vsc_01.PNG?raw=true "VSC Image 01")
@@ -53,10 +53,10 @@ https://code.visualstudio.com/
     - #### 1.3.2.2- Öffnen Sie die Testdatei mit **Live Server**
       Klicken Sie mit der rechten Maustaste auf die Testdatei, um die **Live Server** Erweiterung zu öffnen
       ![VSC Image 04](pics/vsc_04.PNG?raw=true "VSC Image 04")
-
+      
     - #### 1.3.2.3- Akzeptieren Sie die Sicherheitswarnung
-      Klicken
-      ![VSC Image 05](pics/vsc_05.PNG?raw=true "VSC Image 05")
+     Klicken                        
+     ![VSC Image 05](pics/vsc_05.PNG?raw=true "VSC Image 05")
 
     - #### 1.3.2.4- Server gestartet Benachrichtigung
       Bitte beachten Sie, an welchem Port der Server läuft
