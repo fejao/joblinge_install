@@ -25,7 +25,7 @@ Installieren Node JS ins Windows
   ![Node Image 03](pics/node_03.PNG?raw=true "Node Image 03")
 
   - ### 2.2.4- Installationsordner
-  Bitte ändern Sie diesen Standard-Installationsort nicht
+  Bitte ändern Sie diesen Standard-Installationsort nicht               
   ![Node Image 04](pics/node_04.PNG?raw=true "Node Image 04")
 
   - ### 2.2.5- Module, die installiert werden sollen
@@ -52,13 +52,13 @@ Testen der 'NodeJS' Installation
 
     - #### 2.3.1.1- Ändern Sie das Vereezeichnis
     Wechseln Sie mit dem Befehl in ein anderes Verzeichnis:
-    ```bash
+    ```
     cd Dokumente\joblinge\javascript\example_01_browser\von_andere_datei\
     ```
 
     - #### 2.3.1.2- Testen
     Führen Sie den Befehl aus
-    ```bash
+    ```
     node index.js
     ```
 
@@ -77,14 +77,14 @@ Testen der 'NodeJS' Installation
     ![Node Image 11](pics/node_11.PNG?raw=true "Node Image 11")
 
     - #### 2.3.2.3- Ändern Sie das Vereezeichnis
-    Sie
-    ```bash
+    Wechseln Sie mit dem Befehl in ein anderes Verzeichnis:
+    ```
     cd example_01_browser\von_andere_datei\
     ```
 
     - #### 2.3.2.4- Testen
-    Führen Sie den Befehl aus
-    ```bash
+    Führen Sie den Befehl aus        
+    ```
     node index.js
     ```
 
