@@ -52,12 +52,14 @@ Testen der 'NodeJS' Installation
 
     - #### 2.3.1.1- Ändern Sie das Vereezeichnis
     Wechseln Sie mit dem Befehl in ein anderes Verzeichnis:
+
     ```
     cd Dokumente\joblinge\javascript\example_01_browser\von_andere_datei\
     ```
 
     - #### 2.3.1.2- Testen
     Führen Sie den Befehl aus
+
     ```
     node index.js
     ```
@@ -78,12 +80,14 @@ Testen der 'NodeJS' Installation
 
     - #### 2.3.2.3- Ändern Sie das Vereezeichnis
     Wechseln Sie mit dem Befehl in ein anderes Verzeichnis:
+
     ```
     cd example_01_browser\von_andere_datei\
     ```
 
     - #### 2.3.2.4- Testen
     Führen Sie den Befehl aus        
+
     ```
     node index.js
     ```
