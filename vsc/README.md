@@ -18,17 +18,17 @@ https://code.visualstudio.com/
   - ### 1.3.1- Live Server installieren
     Öffnen Sie das Terminal und testen Sie mit den Befehlen
     
-   - #### 1.3.1.1- Offnen Extensions Marketplace
-     Klicken Sie auf die Schaltfläche, um das **Extensions Marketplace** zu öffnen
-     ![VSC Image 01](pics/vsc_01.PNG?raw=true "VSC Image 01")
+        - #### 1.3.1.1- Offnen Extensions Marketplace
+          Klicken Sie auf die Schaltfläche, um das **Extensions Marketplace** zu öffnen
+          ![VSC Image 01](pics/vsc_01.PNG?raw=true "VSC Image 01")
 
-   - #### 1.3.1.2- Suche nach **Live Server**
-     Geben Sie den Namen **Live Server** in das Suchfeld ein
-     ![VSC Image 02](pics/vsc_02.PNG?raw=true "VSC Image 02")
+        - #### 1.3.1.2- Suche nach **Live Server**
+          Geben Sie den Namen **Live Server** in das Suchfeld ein
+          ![VSC Image 02](pics/vsc_02.PNG?raw=true "VSC Image 02")
 
-   - #### 1.3.1.4- **Live Server** Installieren
-     Geben Sie den Namen **Live Server** in das Suchfeld ein
-     ![VSC Image 03](pics/vsc_03.PNG?raw=true "VSC Image 03")
+        - #### 1.3.1.4- **Live Server** Installieren
+          Geben Sie den Namen **Live Server** in das Suchfeld ein
+          ![VSC Image 03](pics/vsc_03.PNG?raw=true "VSC Image 03")
      
  - ### 1.3.2- Live Server Testen
    Testen des **Live Server** mit einer Testdatei
@@ -98,5 +98,5 @@ https://code.visualstudio.com/
       ![VSC Image 09](pics/vsc_09.PNG?raw=true "VSC Image 09")
 
     - #### 1.3.3.4 -Wählen Sie Konsole
-      Ausgabebeispiel
+      Ausgabebeispiel                       
       ![VSC Image 10](pics/vsc_10.PNG?raw=true "VSC Image 10")
