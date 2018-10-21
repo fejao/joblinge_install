@@ -79,6 +79,7 @@ _____________________________________________
 
   - ### 2.3.9- Führen Sie die Datei aus
     Um die Datei auszuführen, klicken Sie mit der rechten Maustaste darauf und wählen Sie die Option **"Run Python in Terminal"**
+    
     ![Python Image 14](pics/python_14.PNG?raw=true "Python Image 14")
 
   - ### 2.3.10- Herzliche Glückwünsche
