@@ -38,8 +38,8 @@ _____________________________________________
     ![Python Image 05](pics/python_05.PNG?raw=true "Python Image 05")
 
 
-- ## 2.3- Tested vsc
-  Installieren Python ins Windows
+- ## 2.3- Python ins Visual Studio Code
+  Wie benutzt man **Python** mit **Visual Studio Code**
 
   - ### 2.3.1- Offnen Extensions Marketplace
     Klicken Sie auf die Schaltfläche, um das Extensions Marketplace zu öffnen
