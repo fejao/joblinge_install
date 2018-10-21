@@ -13,14 +13,18 @@ _____________________________________________
 Bitte lesen Sie die Installationsanleitung unter:
 [Installing Visual Studio Code](vsc/README.md)
 
-## 2- Installieren NodeJS
+## 2- Installieren Python
+Bitte lesen Sie die Installationsanleitung unter:
+[Installing Python](python/README.md)
+
+## 3- Installieren NodeJS
 Bitte lesen Sie die Installationsanleitung unter:
 [Installing NodeJS](node/README.md)
 
-## 3- Installieren Git
+## 4- Installieren Git
 Bitte lesen Sie die Installationsanleitung unter:
 [Installing Git](git/README.md)
 
-## 4- Installieren Git-Cola
+## 5- Installieren Git-Cola
 Bitte lesen Sie die Installationsanleitung unter:
 [Installing Git-Cola](git_cola/README.md)
